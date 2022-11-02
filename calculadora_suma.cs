@@ -14,7 +14,7 @@ public class calculadora
 
     public int suma()
     {
-        return num1 * num2;
+        return num1 + num2;
     }
 
 }
