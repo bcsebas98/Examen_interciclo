@@ -19,6 +19,7 @@ public class calculadora
         }
         else
         {
+	    return "No se puede dividir entre 0";
         }
     }
 
